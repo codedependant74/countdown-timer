@@ -1,10 +1,14 @@
 # Christmas Countdown Timer
 
+Access time here: https://codedependant74.github.io/countdown-timer/
+
+## Description
+
 Displays a countdown from the current date until December 25th of the current year. When timer is over, will update to the next year.
 
 ### Countdown Snippet
 
-! [screenshot of Christmas Countdown] (/images/countdown-ss.png)
+<img src="./images/countdownSS.jpg">
 
 ## Tech Stack
 
